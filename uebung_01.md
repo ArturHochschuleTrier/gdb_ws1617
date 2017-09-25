@@ -20,7 +20,7 @@ Welche Bücher (mit Titel und Erscheinungsjahr) wurden vom Heyne-Verlag herausge
 
 #### Lösungen
 ```sql
-Deine Lösungen
+TEST
 ```
 
 ### Aufgabe 2
